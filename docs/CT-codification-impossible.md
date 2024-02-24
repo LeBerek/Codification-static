@@ -1,3 +1,8 @@
+---
+title: Introduction
+layout: default
+---
+
 #Railway Lines Codification in Poland – Mission Impossible#
 ##Introduction##
 In Poland we have almost 123 passenger and freight Railway Undertakings **(RU)**. In 2023 out of all freight RUs in Poland twenty-six of them executed intermodal transports. RUs run these transports on exceptional rules. The alternative to the currently binding rules is to introduce Combined Transport **(CT)** rules in Poland. CT is an intermodal transport governed by EU Directive and UIC CT rules, where a major part of the journey is made by rail, inland waterways or sea, and the initial and final legs carried out by road are as short as possible.
