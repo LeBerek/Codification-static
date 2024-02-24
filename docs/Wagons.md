@@ -1,7 +1,8 @@
 ---
 title: Wagon
 layout: default
-nav_order: 2
+parent: EU-standard
+nav_order: 1
 ---
 
 ##Codification Of Freight Wagons
