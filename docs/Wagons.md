@@ -1,7 +1,7 @@
 ---
 title: Wagon
 layout: default
-parent: EU-standard
+parent: EU Standard
 nav_order: 1
 ---
 
